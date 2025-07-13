@@ -3,7 +3,11 @@
 Welcome to my GitHub page! I am currently a Computer Science student that loves Game Development, AR/VR Development, and creating any personal projects that come to mind.
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **bernalr2/bernalr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
