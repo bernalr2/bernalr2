@@ -1,6 +1,6 @@
 # Hello! My name is Ryan 👋
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,react,java,kotlin,py,sqlite,lua" />
+  <img src="Featured Banner.png" />
 </p>
 
 Welcome to my GitHub page! I am currently a Computer Science student that loves Game Development, AR/VR Development, and creating any personal projects that come to mind.
