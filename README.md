@@ -1,12 +1,11 @@
-# Hello! My name is Ryan 👋
+<p align="center"># Nice to meet you! My name is Ryan 👋 </p>
 <p align="center">
   <img src="Featured Banner.png" />
 </p>
 
 Welcome to my GitHub page! I am currently a Computer Science student that loves Game Development, AR/VR Development, and creating any personal projects that come to mind.
 
-
-## Programming Languages
+<p align="center">## Programming Languages </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,react,java,kotlin,py,sqlite,lua" />
@@ -18,6 +17,16 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,godot,robloxstudio,blender,figma,visualstudio,vscode,idea" />
   </a>
+</p>
+
+## When I Get Bored:
+<p align="center">
+  	![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+    ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white)
+    ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
+    ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)
+    ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+    ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 </p>
 
 <!--
