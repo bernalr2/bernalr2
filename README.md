@@ -1,4 +1,9 @@
-# Hi there 👋
+# Hello! My name is Ryan 👋
+
+Welcome to my GitHub page! I am currently a Computer Science student that loves Game Development, AR/VR Development, and creating any personal projects that come to mind.
+
+# My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **bernalr2/bernalr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
