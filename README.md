@@ -18,13 +18,13 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
   <h2> 🛠️ Projects I am working on: </h2>
 </div>
 - 🩺 AR/VR Application for Healthcare Learning and Training
+<br>
 - 🔍 2D Open World Game where you solve crimes as a detective and question people Turn Based Combat Style
+<br>
 - 🧀 Discord Bot based on the mascot for my University Game Dev Club
+<br>
 
-
-
-
-
+<br>
 
 <div align="center">
   <h2> 💻 Programming Languages: </h2>
@@ -35,6 +35,8 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
   </a>
 </p>
 
+<br>
+
 <div align="center">
   <h2> 📚 Applications: </h2>
 </div>
@@ -44,10 +46,13 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
   </a>
 </p>
 
+<br>
+
 <div align="center">
   <h2> 👾 What do I play to pass time: </h2>
 </div>
 
+<br>
 
 <p align="center">
   <a href="#">
@@ -58,6 +63,8 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
+
+<br>
 
 <div align="center">
   <h2> 🛑 Before you go: </h2>
