@@ -1,4 +1,7 @@
-<p align="center"># Nice to meet you! My name is Ryan 👋 </p>
+<div align="center">
+  # Nice to meet you! My name is Ryan 👋
+</div>
+
 <p align="center">
   <img src="Featured Banner.png" />
 </p>
