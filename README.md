@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,wordpress" />
+  <a href="https://www.linkedin.com/in/ryanjbernal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://ryanjbernal.com/">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
 
