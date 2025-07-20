@@ -61,14 +61,12 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
     <img src="https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white" />
     <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" />
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+    <img src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white" />
   </a>
 </p>
 
 <br>
-
-<div align="center">
-  <h2> 🛑 Before you go: </h2>
-</div>
+<br>
 
 Have a sweet on your way out! 🎂
 
