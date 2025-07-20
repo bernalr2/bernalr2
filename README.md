@@ -55,8 +55,6 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
   <h2> 👾 What do I play to pass time: </h2>
 </div>
 
-<br>
-
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
