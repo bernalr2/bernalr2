@@ -1,5 +1,5 @@
 <div align="center">
-  # Nice to meet you! My name is Ryan 👋
+  <h1> Nice to meet you! My name is Ryan 👋</h1>
 </div>
 
 <p align="center">
