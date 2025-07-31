@@ -20,7 +20,7 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
 <div align="center">
   <h2> 🛠️ Projects I am working on: </h2>
 </div>
-- 🩺 AR/VR Application for Healthcare Learning and Training
+- 🩺 XR Application for Healthcare Learning and Training
 <br>
 - 🔍 2D Open World Game where you solve crimes as a detective and question people Turn Based Combat Style
 <br>
