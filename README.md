@@ -26,6 +26,7 @@ Welcome to my GitHub page! I am currently a Computer Science student that loves 
 <br>
 - 🧀 Discord Bot based on the mascot for my University Game Dev Club
 <br>
+- 🌐 Personal Website Portfolio coded in HTML/CSS and JS
 
 <br>
 
